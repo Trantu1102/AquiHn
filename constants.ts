@@ -33,6 +33,11 @@ export const HANOI_AQI_DATA: AQIDataPoint[] = [
   { date: '2/12', fullDate: '2024-12-02', aqi: 171, status: 'Không lành mạnh' },
   { date: '3/12', fullDate: '2024-12-03', aqi: 168, status: 'Không lành mạnh' },
   { date: '4/12', fullDate: '2024-12-04', aqi: 183, status: 'Không lành mạnh' },
+  { date: '5/12', fullDate: '2024-12-04', aqi: 174, status: 'Không lành mạnh' },
+  { date: '6/12', fullDate: '2024-12-04', aqi: 182, status: 'Không lành mạnh' },
+  { date: '7/12', fullDate: '2024-12-04', aqi: 196, status: 'Không lành mạnh' },
+  { date: '8/12', fullDate: '2024-12-04', aqi: 177, status: 'Không lành mạnh' },
+  { date: '9/12', fullDate: '2024-12-04', aqi: 188, status: 'Không lành mạnh' }
 ];
 
 export const SYSTEM_INSTRUCTION = `Bạn là một chuyên gia về chất lượng không khí và sức khỏe môi trường tại Việt Nam. 
