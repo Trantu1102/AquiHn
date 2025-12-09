@@ -1,0 +1,5 @@
+{
+  "name": "Hanoi AQI Tracker",
+  "description": "An interactive dashboard visualizing Hanoi air quality data with AI-powered health insights, styled in neon purple and pink themes.",
+  "requestFramePermissions": []
+}
