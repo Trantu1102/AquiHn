@@ -172,7 +172,7 @@ function App() {
 
         <div className="text-center pt-8 border-t border-zinc-700">
           <p className="text-zinc-500 text-xs">
-            Dữ liệu minh họa từ 4/11 - 4/12. Màu sắc trên giao diện là thiết kế, màu trong bảng tuân theo thang đo AQI.
+            Dữ liệu minh họa từ 4/11 - 9/12. Màu sắc trên giao diện là thiết kế, màu trong bảng tuân theo thang đo AQI.
           </p>
         </div>
 
